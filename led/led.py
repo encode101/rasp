@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import RPi.GPIO as IO            # calling header file for GPIO’s of PI
 import time                              # calling for time to provide delays in program
 
